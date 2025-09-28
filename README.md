@@ -8,9 +8,7 @@ An end-to-end data engineering solution built on **Microsoft Fabric** to ingest,
 
 ## 🧱 Architecture Diagram
 
-> 📌 *Replace the image below with your actual architecture visual once ready.*
-
-![Architecture Diagram](./assets/nyc-taxi-data-pipeline-architecture.png)
+![Architecture Diagram](./images/NYCtaxi_architecture.png)
 
 
 ---
@@ -43,17 +41,7 @@ An end-to-end data engineering solution built on **Microsoft Fabric** to ingest,
 
 ---
 
-## 🛠️ Tech Stack
 
-| Category | Tools |
-|----------|------|
-| Storage | OneLake (Parquet) |
-| Orchestration | Microsoft Fabric Data Factory |
-| Processing | Dataflows, Stored Procedures |
-| Modeling | Power BI Semantic Layer |
-| Visualization | Power BI Dashboards & Reports |
-
----
 
 
 
